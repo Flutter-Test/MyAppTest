@@ -1,52 +1,29 @@
 # my_app_test
 
-Projeto para anotações e conhecimento.
+Projeto desenvolvido para anotações e conhecimento de comandos e estrutura de arquivos do flutter.
+
+[Documentação - Flutter](https://docs.flutter.dev/)
+
+## Arquivos padrões
 
 ### 📦 pubspec.yaml
 
 Arquivo gerenciador de pacotes.
 
+## Classes
+
+### 📄 StatelessWidget
+
+Classe sem estado, ou seja, classe de widget com elementos estáticos.
+
+### 📝 StatefullWidget
+
+Classe com estado, ou seja, classe de widget com elementos dinâmicos.
+
 ### 📒 Comandos
 
-<style>
-    .command {
-        padding: 3px 5px;
-
-        border-radius: 5px;
-
-        background: #444;
-    }
-</style>
-
-<table>
-    <thead>
-        <th>
-            Comando
-        </th>
-        <th>
-            Função
-        </th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <span class="command">
-                    flutter create PROJECT_NAME
-                </span>
-            </td>
-            <td>
-                Comando utilizado para criar um novo projeto.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <span class="command">
-                    flutter run
-                </span>
-            </td>
-            <td>
-                Comando utilizado para executar o projeto.
-            </td>
-        </tr>
-    </tbody>
-</table>
+Comando                       | Descrição
+:--                           |:--
+`flutter doctor`              | Comando que orienta os desenvolvedores na configuração do ambiente de desenvolvimento local.
+`flutter create PROJECT_NAME` | Comando utilizado para criar um novo projeto.
+`flutter run`                 | Comando utilizado para executar o projeto.
