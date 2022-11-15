@@ -20,7 +20,7 @@ Classe sem estado, ou seja, classe de widget com elementos estáticos.
 
 Classe com estado, ou seja, classe de widget com elementos dinâmicos.
 
-### 📒 Comandos
+## Comandos
 
 Comando                       | Descrição
 :--                           |:--
