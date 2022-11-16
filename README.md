@@ -14,11 +14,15 @@ Arquivo gerenciador de pacotes.
 
 ### 📄 StatelessWidget
 
-Classe sem estado, ou seja, classe de widget com elementos estáticos.
+Classe sem estado, ou seja, classe de widget com **elementos estáticos**.
 
-### 📝 StatefullWidget
+### 📝 StatefulWidget
 
-Classe com estado, ou seja, classe de widget com elementos dinâmicos.
+Classe com estado, ou seja, classe de widget com **elementos dinâmicos**.
+
+### 📒 MaterialApp
+
+Widget de conveniência que envolve vários widgets normalmente necessários para aplicativos de Material Design.
 
 ## Comandos
 
